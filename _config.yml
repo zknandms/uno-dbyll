@@ -3,7 +3,7 @@
 permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
-
+url: https://mdshopon.github.io
 highlighter: pygments
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
